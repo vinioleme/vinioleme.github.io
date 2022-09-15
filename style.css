@@ -1,0 +1,37 @@
+h2{
+    color: rgb(7, 124, 150);
+    font-size: 2em;
+   }
+
+   p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+   }
+
+   body{
+    background-color: rgb(rgb(167, 248, 245), green, blue);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   #habilidades-principais {
+    background-color: coral;
+   }
+
+   #nome {
+    color: darkblue;
+   }
+
+   .list-style {
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+
+   }
+
+   img{
+    border-radius: 100%;
+   }
