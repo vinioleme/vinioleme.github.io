@@ -2,7 +2,9 @@
        body{
         background-color: rgb(rgb(167, 248, 245), green, blue);
         font-family: 'Roboto', sans-serif;
+        padding: 3%;
        }
+
        h2{
         color: rgb(7, 124, 150);
         font-size: 2em;
@@ -13,7 +15,7 @@
        }
 
        #nome {
-        color: rgb(rgb(70, 54, 240), green, blue);
+       color: rgb(0, 116, 217);
        }
 
        .list-style {
@@ -28,6 +30,32 @@
        #estilo-curriculo {
         color: white;
         background-color:rgb(0, 82, 189);
-        padding: 30px 15px 30px 15px;
+        padding: 10px;
         text-align: center;
+       }
+
+       div{
+        /* border: 2px solid goldenrod; */
+       }
+
+       .image-container{
+              height: 380px;
+              position: relative;
+       }
+
+       #foto{
+              float:left;
+              height: 300px;
+              padding: 10px;
+              background-color: aqua;
+       }
+
+       .descrição{
+              position:relative;
+              top: 50%;
+              right:-20px;
+       }
+
+       ul li:nth-child(odd){
+              background-color: aquamarine;
        }
